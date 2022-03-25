@@ -1,6 +1,6 @@
 # Frameworks Documentation
 
-<img src="https://cdn.leximals.com/framworks/logo-512x512.png" alt="" style="width:384px;">
+<img src="https://cdn.leximals.com/frameworks/logo-512x512.png" alt="" style="height:128px;">
 
 Frameworks is an open source frameworks library for many languages like Python, Java, Kotlin, JavaScript or C#.
 
